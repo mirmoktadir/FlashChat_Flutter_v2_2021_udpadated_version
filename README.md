@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
 
 
 # Flash Chat ⚡️
@@ -14,7 +14,7 @@ We’re going to build a modern messaging app where users can sign up and log in
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
 
-## What you will learn
+## What i show
 
 - How to incorporate Firebase into your Flutter projects.
 - How to use Firebase authentication to register and sign in users.
@@ -27,6 +27,6 @@ We’re going to build a modern messaging app where users can sign up and log in
 
 
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
